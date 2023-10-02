@@ -1,0 +1,2 @@
+# FriendFunctionCpp
+Friend function C++
